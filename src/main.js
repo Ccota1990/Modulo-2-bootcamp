@@ -1,5 +1,5 @@
 
 
-console.log( "importe por comensal", "=" , + (120-18) / 6 );
+console.log( "importe por comensal", "=" , + (120-18) / 6, "€" );
 
 
